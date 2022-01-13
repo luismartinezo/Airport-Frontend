@@ -1,5 +1,7 @@
 # Aeropuerto
 
+Graphical interface in Angular where it is required to make a system that serves to visualize all the movements of planes in the day.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
 
 ## Development server
